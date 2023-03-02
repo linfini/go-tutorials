@@ -1,1 +1,1 @@
-https://golang.google.cn/doc/ 联系源码
+https://golang.google.cn/doc/ go文档教程源码
